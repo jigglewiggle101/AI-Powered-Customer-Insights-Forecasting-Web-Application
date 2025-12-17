@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+dist/
+
+# Docker
+*.log
+*.env
+.dockerignore
+
+# VSCode
+.vscode/
